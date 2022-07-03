@@ -13,8 +13,9 @@ Authors
 >recommend using the Kyber-768 parameter set, which—according to a very conservative analysis—achieves more than 128 bits of security against all known classical and quantum attacks.
 
 Only this set and the IND-CPA-secure encryption will be considered. Ignoring the compression. Performance is not relevant.
-
 <br />
+<br />
+
 More details about Kyber in the [algorithm specifications and supporting documentation](https://pq-crystals.org/kyber/data/kyber-specification-round3-20210804.pdf) and in the original paper:
 
 >Cryptology ePrint Archive, Paper 2017/634, 2017. https://eprint.iacr.org/2017/634
